@@ -42,4 +42,6 @@ public abstract class Komponente {
                 ", modellBezeichnung='" + modellBezeichnung + '\'' +
                 '}';
     }
+
+    //Kommentar
 }

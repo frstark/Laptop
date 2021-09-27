@@ -13,6 +13,8 @@ public class Laptop extends Komponente {
         this.mainboard = mainboard;
         this.bildschirm = bildschirm;
         this.festplatte = festplatte;
+
+        // Kommentar
     }
 
 
