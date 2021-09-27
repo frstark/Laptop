@@ -12,5 +12,9 @@ public class Ram extends Komponente{
 
 
         //Kommentar
+
+
+
+
     }
 }
