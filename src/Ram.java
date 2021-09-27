@@ -13,7 +13,7 @@ public class Ram extends Komponente{
 
         //Kommentar
 
-
+// Ein langes Kommentar !!!!!
 
 
     }
